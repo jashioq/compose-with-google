@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose with Google 6</string>
+    <string name="name">Jan Wylegała</string>
+    <string name="title">Google dev one day hopefully :)</string>
+    <string name="phone_number">123 456 789</string>
+    <string name="email">email@mail.com</string>
+</resources>
